@@ -1,11 +1,11 @@
 # Site settings
 title: N Jensen | What's New
 description: "A minimal blog template, built with Jekyll."
-url: "https://github.wsgc.com/pages/NJensen1/whats-new/"
+url: "https://github.com/njensen0604/njensen0604.github.io"
 author:
   name: "N Jensen"
-  email: "njensen1@wsgc.com"
-  url: "https://github.wsgc.com/pages/NJensen1/whats-new/"
+  email: "nicholas0604@gmail.com"
+  url: "https://github.com/njensen0604/njensen0604.github.io"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
