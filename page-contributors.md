@@ -4,6 +4,6 @@ title: Contributors
 ---
 ## Contributors
 
-### Nicholas Jensen (njensen1)
+### Nicholas Jensen
 
 Donuts and coffee. Yes, please.
