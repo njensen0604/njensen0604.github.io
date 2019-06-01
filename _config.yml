@@ -8,7 +8,7 @@ author:
   url: "https://github.wsgc.com/pages/NJensen1/whats-new/"
 
 # Build settings
-baseurl: /pages/NJensen1/whats-new # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
