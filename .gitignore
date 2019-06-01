@@ -1,0 +1,26 @@
+### Intellij IDEA ###
+.idea/
+
+### VisualStudioCode ###
+.vscode/
+
+### SonarLint ###
+.sonarlint/
+
+### TypeScript ###
+tsconfig.json
+*.map
+
+### Misc ###
+.eslintrc.json
+.DS_Store
+
+### node modules ###
+src/node_modules/
+
+### package lock ###
+src/package-lock.json
+
+### Jekyll site dir ###
+_site
+
